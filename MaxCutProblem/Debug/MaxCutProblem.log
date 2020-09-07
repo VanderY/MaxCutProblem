@@ -1,0 +1,20 @@
+﻿  MaxCutProblem.cpp
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(87,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(105,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(127,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(163,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(188,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(192,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(210,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(222,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(248,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(252,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(297,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(308,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(310,30): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(319,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(372,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\MaxCutProblem\MaxCutProblem\MaxCutProblem.cpp(383,23): warning C4018: <: несоответствие типов со знаком и без знака
+  MaxCutProblem.vcxproj -> D:\Projects\MaxCutProblem\Debug\MaxCutProblem.exe
